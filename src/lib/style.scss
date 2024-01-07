@@ -1,0 +1,13 @@
+@import "$lib/_palette.scss";
+
+:root {
+    background-color: $base;
+    color: $text;
+    font-family: $font;
+}
+
+h1 {
+    font-size: 400%;
+    text-align: center;
+    vertical-align: middle;
+}
