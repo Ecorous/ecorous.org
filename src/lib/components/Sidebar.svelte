@@ -2,9 +2,12 @@
     import { FileQuestion, Home, Library, Mail, MessageCircleQuestion, ShieldQuestion } from "lucide-svelte";
 
     const AVATAR_URL = "https://cdn.ecorous.org/avatars/current_avatar.png";
+
+    let { children } = $props();
 </script>
 
 <div class="sidebar">
+    {@render children()}
     <br/>
     <br/>
     <a class="sidebar-link" href="/"><Home /> Home</a>
