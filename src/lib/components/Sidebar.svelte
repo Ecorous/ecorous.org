@@ -13,6 +13,9 @@
     <a class="sidebar-link" href="/projects"><Library /> Projects</a>
     <br/>
     <br/>
+    <a class="sidebar-link" href="/blog"><MessageCircleQuestion /> Blog</a>
+    <br/>
+    <br/>
     <a class="sidebar-link" href="/contact"><Mail /> Contact</a>
 </div>
 
