@@ -20,6 +20,9 @@
     <br/>
     <br/>
     <a class="sidebar-link" href="/contact"><Mail /> Contact</a>
+    <br/>
+    <br/>
+    <a class="sidebar-link" href="https://discord.ecorous.org"><Mail /> Discord</a>
 </div>
 
 <style lang="scss">
